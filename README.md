@@ -2,7 +2,7 @@
 
 This project implements the **Lucas-Kanade optical flow algorithm** to track motion between two or more consecutive frames in a video. It's a cornerstone method in computer vision, widely used for motion estimation, object tracking, and visual odometry.
 
----
+
 
 ## 📌 What is Lucas-Kanade?
 
