@@ -22,7 +22,7 @@ It calculates the flow vector (displacement) for key points by solving a set of 
 - Augmented reality overlays
 - Autonomous vehicle navigation
 
----
+
 
 ## 🛠️ Requirements
 
