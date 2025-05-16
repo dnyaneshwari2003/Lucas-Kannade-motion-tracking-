@@ -23,7 +23,6 @@ It calculates the flow vector (displacement) for key points by solving a set of 
 - Autonomous vehicle navigation
 
 
-
 ## 🛠️ Requirements
 
 If you're using Python + OpenCV:
