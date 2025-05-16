@@ -12,7 +12,7 @@ The **Lucas-Kanade method** is a differential method for optical flow estimation
 
 It calculates the flow vector (displacement) for key points by solving a set of linear equations using image gradients.
 
----
+
 
 ## 🧠 Applications
 
